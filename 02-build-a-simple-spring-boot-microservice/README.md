@@ -67,6 +67,8 @@ In order to create the application graphically, you can use [the Azure portal](h
 - Look for your Azure Spring Cloud cluster in your resource group
 - Go to "App Management" and create an application
 - Create a new application named "simple-microservice"
+- Choose the amount of CPU and memory you want to allocate to your new app
+- Click "add to app list"
 
 ![Create application](media/01-create-application.png)
 
